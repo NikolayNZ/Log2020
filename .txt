@@ -1,0 +1,1 @@
+Characteristic{Parameter=DEBUG, message='Запись текста', date='23.02.2020'}
